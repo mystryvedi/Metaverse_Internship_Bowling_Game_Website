@@ -1,0 +1,49 @@
+* {
+
+    text-align: center;
+    
+    }
+body {
+
+    text-align: center;
+        
+    }
+h1 {
+    margin: auto;
+    width: 900px; 
+    padding: 20px;
+    font-family: 'Lexend Deca', cursive; 
+    color: #502b5f;    
+    }
+
+h2 {
+    margin: auto;
+    width: 900px; 
+    padding: 10px;
+    font-family: 'Lexend Deca', cursive; 
+    color: #1b4148;    
+    }
+
+h3  {
+    margin: auto;
+    width: 900px; 
+    padding: 5px;
+    font-family: 'Lexend Deca', cursive; 
+    color: #1f4d61;    
+    }
+
+p  {
+    margin: auto;
+    width: 900px; 
+    padding: 15px;
+    font-family: 'Lexend Deca', cursive; 
+    color: #2a0a31;    
+    }
+
+p1 {
+    margin: auto;
+    width: 500px; 
+    padding: 15px;
+    font-family: 'Lexend Deca', cursive; 
+    color: #578616;    
+    }
