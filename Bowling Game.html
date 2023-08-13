@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bowling Game</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body style="background-color:rgb(170, 216, 244);">
+    <img src="Bowling Game.png" alt="Bowling Game Image" style="width:250px;height:250px;" border="3">
+    <h1>Bowling Game</h1>
+    <p>Advancements in technology have made Virtual Reality (VR) more immersive and affordable than ever. This immersive environment can be similar to the real world. Or it can be fantastical, creating an experience that is not possible in ordinary reality.
+
+        Better yet, high-quality VR devices are available at low prices these days. With a number of smartphone-compatible VR headsets such as Google Cardboard, Samsung Gear VR, Oculus Rift and HTC Vive, VR is showing to be the next big thing.</p>
+    
+        <h2>A-Frame</h2>
+    <p>A-Frame is a virtual reality framework that is built upon the WebVR API. It uses the WebVR API to gain access to VR headset sensor data (position, orientation) to transform the camera and to render content directly to VR headsets. A-Frame is an open community project that uses the WebVR API along with HTML, CSS, JavaScript, and Three.js. A-Frame aims for highly immersive and interactive VR content with native-like performance. At the same time, A-Frame wants everyone to be able to get involved with VR content creation. A-Frame supports all major headsets with their controllers.</p>
+
+    <h2>WebVR</h2>
+    <p>WebVR is an open specification that makes it possible to experience VR in your browser. It is a JavaScript browser API that acts as an interface for the VR hardware. WebVR is cross-platform and can be used to develop, view and share VR content on any browser that supports VR. With WebVR, you can open up a browser and get into VR just by clicking a link. Working with WebVR directly requires knowledge of JavaScript and WebGL.</p>
+
+    <h2>Gaming Environment</h2>
+    
+    <h3>Ball</h3>
+    <p>a-sphere primitive creates a spherical shape. You can define its radius color and position. Because of aframe-physics-system, the ball can be converted into a dynamic-body with a certain mass.</p>
+
+    <h3>Bowling Lane</h3>
+    <p>a-box creates shapes such as boxes, cubes, or walls. You can create a rectangle box and make a bowling lane out of it by placing pins and ball on top of it.</p>
+
+    <h3>Bowling Pins</h3>
+    <p>a-cylinder primitive is used to create tubes and curved surfaces. These cylinders can be used as bowling pins in the game. Be sure to define the radius, height, position, and mass of the cylinder.</p>
+
+    <h2>Inside the Game</h2>
+
+    <h3>How we decide the turns</h3>
+    <p>Deciding the Turns
+        Every player gets two turns. The player switch turns after every two shots. So after every two shots, PubNub can notify the other user that they can take control. In this game, every time the player gets his/her turn the 5 triangle pointers surface on the bowling lane. And when it’s not their turn, the 5 triangle pointers are hidden.
+        
+        Hide the pointers when it’s not your turn. Here, instead of hiding, I am setting the position to 0.
+        
+        Make the pointer surface back to the bowling lane when it is your turn. By doing this, you’ll be taking control of the tracks again.</p>
+    <p>Prepared By- Gyapti Trivedi 03801182022 ECE-AI-1 3rd Semester</p>
+    <h3>Project Link</h3>
+    <a href="https://github.com/mystryvedi/Metaverse_Internship_Bowling_Game.git">Metaverse Internship Bowling Game</a>
+
+</body>
+</html>
