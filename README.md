@@ -5,4 +5,8 @@
 - But what truly sets my game apart is the two-player aspect. In a world increasingly dominated by digital communication and social media, genuine face-to-face interactions are becoming rarer. My game brings people together in a shared physical space, encouraging them to laugh, strategize, and enjoy each other's company. The experience goes beyond the game itself; it becomes a bridge for meaningful connections and a chance to escape solitude, even if just for a short while.
 - Moreover, the affordability and accessibility of VR technology mean that this stress-relieving experience is not reserved for a select few. Anyone with a compatible VR headset can step into this virtual sanctuary, making it inclusive and accessible for people from all walks of life.
 - In essence, my 2-player VR bowling game goes beyond entertainment. It offers a momentary respite from life's demands, a chance for individuals to bond with a friend, family member, or colleague, and a reminder that even amidst chaos, there's always room for leisure and connection.
+
+## Media 
+<img width="481" alt="Bowling Game" src="https://github.com/mystryvedi/Metaverse_Internship_Bowling_Game_Website/assets/115182741/36012169-dc7a-45f7-bbce-d00104f68562">
+
 #### Prepared by - Gyapti Trivedi 03801182022 ECE-AI-1 3rd Semester
